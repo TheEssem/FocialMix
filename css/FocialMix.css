@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'FocialMix';
-  src:  url('fonts/FocialMix.eot?6me5gk');
-  src:  url('fonts/FocialMix.eot?6me5gk#iefix') format('embedded-opentype'),
-    url('fonts/FocialMix.ttf?6me5gk') format('truetype'),
-    url('fonts/FocialMix.woff?6me5gk') format('woff'),
-    url('fonts/FocialMix.svg?6me5gk#FocialMix') format('svg');
+  src:  url('../fonts/FocialMix.eot?6me5gk');
+  src:  url('../fonts/FocialMix.eot?6me5gk#iefix') format('embedded-opentype'),
+    url('../fonts/FocialMix.ttf?6me5gk') format('truetype'),
+    url('../fonts/FocialMix.woff?6me5gk') format('woff'),
+    url('../fonts/FocialMix.svg?6me5gk#FocialMix') format('svg');
   font-weight: normal;
   font-style: normal;
 }
