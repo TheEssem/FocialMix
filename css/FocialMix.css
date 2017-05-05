@@ -9,7 +9,7 @@
   font-style: normal;
 }
 
-.icon:before {
+[class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'FocialMix' !important;
   display: inline-block;
@@ -761,4 +761,3 @@
 .icon-meetup:before {
   content: "\f2e0";
 }
-
