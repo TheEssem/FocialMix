@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'focialmix';
-  src: url('../font/focialmix.eot?55011704');
-  src: url('../font/focialmix.eot?55011704#iefix') format('embedded-opentype'),
-       url('../font/focialmix.woff2?55011704') format('woff2'),
-       url('../font/focialmix.woff?55011704') format('woff'),
-       url('../font/focialmix.ttf?55011704') format('truetype'),
-       url('../font/focialmix.svg?55011704#focialmix') format('svg');
+  src: url('../font/focialmix.eot?12635710');
+  src: url('../font/focialmix.eot?12635710#iefix') format('embedded-opentype'),
+       url('../font/focialmix.woff2?12635710') format('woff2'),
+       url('../font/focialmix.woff?12635710') format('woff'),
+       url('../font/focialmix.ttf?12635710') format('truetype'),
+       url('../font/focialmix.svg?12635710#focialmix') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'focialmix';
-    src: url('../font/focialmix.svg?55011704#focialmix') format('svg');
+    src: url('../font/focialmix.svg?12635710#focialmix') format('svg');
   }
 }
 */
@@ -99,7 +99,7 @@
 .icon-inkscape:before { content: '\e929'; } /* '' */
 .icon-openbsd:before { content: '\e92a'; } /* '' */
 .icon-freebsd:before { content: '\e92b'; } /* '' */
-.icon-freebsd-beastie, beastie, bsd:before { content: '\e92c'; } /* '' */
+.icon-beastie, bsd:before { content: '\e92c'; } /* '' */
 .icon-discord-alt:before { content: '\e92d'; } /* '' */
 .icon-discord:before { content: '\e92e'; } /* '' */
 .icon-qq:before { content: '\e92f'; } /* '' */
@@ -259,7 +259,7 @@
 .icon-snapchat-square:before { content: '\f2ad'; } /* '' */
 .icon-yoast:before { content: '\f2b1'; } /* '' */
 .icon-themeisle:before { content: '\f2b2'; } /* '' */
-.icon-google-plus-circle, google-plus-official:before { content: '\f2b3'; } /* '' */
+.icon-google-plus-circle:before { content: '\f2b3'; } /* '' */
 .icon-linode:before { content: '\f2b8'; } /* '' */
 .icon-quora:before { content: '\f2c4'; } /* '' */
 .icon-free-code-camp:before { content: '\f2c5'; } /* '' */
