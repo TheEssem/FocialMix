@@ -43,7 +43,7 @@
 .icon-inkscape:before { content: '\e929'; } /* '' */
 .icon-openbsd:before { content: '\e92a'; } /* '' */
 .icon-freebsd:before { content: '\e92b'; } /* '' */
-.icon-freebsd-beastie, beastie, bsd:before { content: '\e92c'; } /* '' */
+.icon-beastie, bsd:before { content: '\e92c'; } /* '' */
 .icon-discord-alt:before { content: '\e92d'; } /* '' */
 .icon-discord:before { content: '\e92e'; } /* '' */
 .icon-qq:before { content: '\e92f'; } /* '' */
@@ -203,7 +203,7 @@
 .icon-snapchat-square:before { content: '\f2ad'; } /* '' */
 .icon-yoast:before { content: '\f2b1'; } /* '' */
 .icon-themeisle:before { content: '\f2b2'; } /* '' */
-.icon-google-plus-circle, google-plus-official:before { content: '\f2b3'; } /* '' */
+.icon-google-plus-circle:before { content: '\f2b3'; } /* '' */
 .icon-linode:before { content: '\f2b8'; } /* '' */
 .icon-quora:before { content: '\f2c4'; } /* '' */
 .icon-free-code-camp:before { content: '\f2c5'; } /* '' */

@@ -43,7 +43,7 @@
 .icon-inkscape { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe929;&nbsp;'); }
 .icon-openbsd { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;&nbsp;'); }
 .icon-freebsd { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92b;&nbsp;'); }
-.icon-freebsd-beastie, beastie, bsd { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92c;&nbsp;'); }
+.icon-beastie, bsd { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92c;&nbsp;'); }
 .icon-discord-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92d;&nbsp;'); }
 .icon-discord { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92e;&nbsp;'); }
 .icon-qq { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92f;&nbsp;'); }
@@ -203,7 +203,7 @@
 .icon-snapchat-square { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2ad;&nbsp;'); }
 .icon-yoast { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2b1;&nbsp;'); }
 .icon-themeisle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2b2;&nbsp;'); }
-.icon-google-plus-circle, google-plus-official { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2b3;&nbsp;'); }
+.icon-google-plus-circle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2b3;&nbsp;'); }
 .icon-linode { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2b8;&nbsp;'); }
 .icon-quora { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2c4;&nbsp;'); }
 .icon-free-code-camp { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2c5;&nbsp;'); }
