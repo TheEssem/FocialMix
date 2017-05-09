@@ -624,7 +624,7 @@
     },
     {
       "uid": "31b05d19f78c18b8ce098917de83559a",
-      "css": "freebsd-beastie, beastie, bsd",
+      "css": "beastie, bsd",
       "code": 59692,
       "src": "custom_icons",
       "selected": true,
@@ -2864,7 +2864,7 @@
     },
     {
       "uid": "a566a0387e838e0665cf4a554aa9abc8",
-      "css": "google-plus-circle, google-plus-official",
+      "css": "google-plus-circle",
       "code": 62131,
       "src": "custom_icons",
       "selected": true,
